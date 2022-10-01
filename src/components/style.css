@@ -1,0 +1,28 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.name {
+  text-align: center;
+  margin-top: 200px;
+  font-size: 50px;
+}
+
+.counter {
+  text-align: center;
+  margin-bottom: 50px;
+  font-size: 50px;
+}
+.container {
+  width: 60%;
+  margin: auto;
+  display: flex;
+  justify-content: center;
+}
+.button {
+  margin-right: 20px;
+  padding: 20px;
+  font-size: 20px;
+  border-radius: 10px;
+}
